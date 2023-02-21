@@ -1,5 +1,5 @@
 ---
-avatar_filename: wechatimg91.jpeg
+avatar_filename: ""
 bio: ""
 interests:
   - Software Testing
