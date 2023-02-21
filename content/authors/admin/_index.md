@@ -1,6 +1,5 @@
 ---
-title: Yuwei Zhang 张俞炜
-role: ""
+avatar_filename: wechatimg91.jpeg
 bio: ""
 interests:
   - Software Testing
@@ -40,7 +39,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: ""
 highlight_name: true
+title: Yuwei Zhang 张俞炜
 first_name: Alice
 email: ""
 ---
