@@ -51,6 +51,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a postdoctoral researcher working with Prof. [Boxin Shi](https://camera.pku.edu.cn/People.htm) at the [National Engineering Research Center of Visual Technology](https://idm.pku.edu.cn/), [Peking University](https://pku.edu.cn/). \
+I received my Ph.D. in 2021 and B.Eng. in 2016 from [South China University of Technology](https://www.scut.edu.cn/), where I was supervised by Prof. [Yong Xu](https://scholar.google.com/citations?user=1hx5iwEAAAAJ) and worked with Prof. [Yuhui Quan](https://csyhquan.github.io/). I'm also grateful for having collaborated with these inspiring professors: [Hui Ji](https://blog.nus.edu.sg/matjh/) (NUS), [Haibin Ling](https://www3.cs.stonybrook.edu/~hling/) (SBU), and [Jiaying Liu](http://39.96.165.147/people/liujiaying.html)(PKU), etc. \
+My research interests sit at the intersection of computational photography, computer vision and machine learning, with a focus on visual signals captured under low-light conditions.
 {style="text-align: justify;"}
