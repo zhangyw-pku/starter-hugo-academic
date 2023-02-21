@@ -1,5 +1,5 @@
 ---
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Software Testing
